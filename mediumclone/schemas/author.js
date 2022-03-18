@@ -26,6 +26,16 @@ export default {
       },
     },
     {
+      name: 'joinedAt',
+      title: 'Joined at',
+      type: 'date',
+    },
+    {
+      name: 'socialLink',
+      title: 'Twitter Link',
+      type: 'string',
+    },
+    {
       name: 'bio',
       title: 'Bio',
       type: 'array',
