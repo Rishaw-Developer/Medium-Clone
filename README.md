@@ -1,3 +1,13 @@
+<img style="width: 200px;" src="https://accountabilitylab.org/wp-content/uploads/2020/03/Medium-logo.png" alt="" />
+
+# Medium Clone
+Medium is a place to write, read and connect. It's easy and free to post your thinking on any topic and connect with millions of readers.
+
+## Authors
+
+- [@Rishaw-Developer](https://github.com/Rishaw-Developer)
+- [@Rishaw-Infinity](https://github.com/rishawInfinity)
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
