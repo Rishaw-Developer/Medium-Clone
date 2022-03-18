@@ -15,6 +15,11 @@ export default {
       type: 'string',
     },
     {
+      name: 'keywords',
+      title: 'Meta Keywords',
+      type: 'string',
+    },
+    {
       name: 'slug',
       title: 'Slug',
       type: 'slug',
